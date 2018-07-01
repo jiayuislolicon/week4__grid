@@ -96,7 +96,17 @@ export default class IndexPage extends React.Component {
         		<div className="border"></div>
         	</section>*/}
         	<section className="item item6">
-        		
+        		<div className="pattern"></div>
+        		<div className="tag">
+        			<span className='white-tag'>Workspace</span>
+        			<span className='white-tag'>Performance</span>
+        		</div>
+        		<div className="title">
+        			<h2>Alberto</h2>
+        			<h2>García-Alix</h2>
+        		</div>
+        		<div className="pic" style={{ backgroundImage: `url(${process.env.PUBLIC_PATH}asset/7.jpg)` }}></div>
+        		<h1 className="num">06</h1>
         	</section>
         </div>
     }
