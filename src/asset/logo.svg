@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 81 35">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-アートボード_1);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #394a51;
+        stroke-width: 0.7px;
+        font-size: 30px;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: Dosis-Bold, Dosis;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        fill: #394a51;
+        font-size: 19px;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-アートボード_1">
+      <rect width="81" height="35"/>
+    </clipPath>
+  </defs>
+  <g id="アートボード_1" data-name="アートボード – 1" class="cls-1">
+    <rect class="cls-4" width="81" height="35"/>
+    <g id="グループ化_47" data-name="グループ化 47" transform="translate(-42 -49)">
+      <text id="JY" class="cls-2" transform="translate(42 80)"><tspan x="0" y="0">JY</tspan></text>
+      <text id="travel" class="cls-3" transform="translate(75.216 79.703)"><tspan x="0" y="0">travel</tspan></text>
+    </g>
+  </g>
+</svg>
