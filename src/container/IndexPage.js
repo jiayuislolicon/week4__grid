@@ -5,7 +5,7 @@ export default class IndexPage extends React.Component {
 
     render() {
         return <div className='index-page'>
-{/*        	<section className="main-visual grid">
+			<section className="main-visual grid">
         		<div className="logo">
         			<span>R & W</span>
         		</div>
@@ -94,7 +94,7 @@ export default class IndexPage extends React.Component {
         			<h2>Fukase</h2>
         		</div>
         		<div className="border"></div>
-        	</section>*/}
+        	</section>
         	<section className="item item6">
         		<div className="pattern"></div>
         		<div className="tag">
@@ -107,6 +107,20 @@ export default class IndexPage extends React.Component {
         		</div>
         		<div className="pic" style={{ backgroundImage: `url(${process.env.PUBLIC_PATH}asset/7.jpg)` }}></div>
         		<h1 className="num">06</h1>
+        	</section>
+        	<section className="item item7">
+        		<h1 className="num">07</h1>
+        		<div className="tag">
+        			<span className="red-tag">Talk</span>
+        			<span className="red-tag">Art & Culture</span>
+        		</div>
+        		<div className="title">
+        			<h2>Izumi</h2>
+        			<h2>Miyazaki</h2>
+        		</div>
+        		<div className="pic" style={{ backgroundImage: `url(${process.env.PUBLIC_PATH}asset/8.jpg)` }}></div>
+        		<div className="border"></div>
+        		<div className="pattern"></div>
         	</section>
         </div>
     }
